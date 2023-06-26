@@ -1,0 +1,25 @@
+.button {
+    background-color: orangered;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+
+  }
+  
+  .button:hover {
+    background-color: #444;
+    color: #fff;
+  }
+
+.page {
+    background-color: green !important;
+}
+
+body {
+    background-color: black;
+}
