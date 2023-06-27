@@ -14,7 +14,7 @@ function Completition() {
   const { Configuration, OpenAIApi } = require("openai");
 
 const configuration = new Configuration({
-    apiKey: "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",
+    apiKey: "api-key", //INSERTAR LA API KEY GENERADA
     });
 const openai = new OpenAIApi(configuration);
 
